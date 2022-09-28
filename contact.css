@@ -1,0 +1,87 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+body {
+    background-color: black;
+}
+input[type=text], select, textarea {
+    width: 100%; 
+    padding: 12px; 
+    border: 1px solid #ccc; 
+    border-radius: 4px; 
+    box-sizing: border-box; 
+    margin-top: 6px; 
+    margin-bottom: 16px;
+    resize: vertical
+  }
+  h1 {
+    text-align: center;
+    text-decoration: underline;
+  }
+  input[type=submit] {
+    background-color: #04AA6D;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  input[type=submit]:hover {
+    background-color: #ff0000;
+  }
+  .container {
+    border-radius: 5px;
+    background-color: #f2f2f2;
+    padding: 20px;
+  }
+  .navbar-inverse .navbar-nav .nav-link, .navbar-nav .nav-lin{
+  font-size: 20px;
+font-weight: 400;
+line-height: normal;
+color: #fff;
+letter-spacing: 0px;
+transition: ease all 0.5s;}
+.logo {
+font-size: 30px;
+color: white;
+font-family: 'Poppins', sans-serif;
+}
+.photo1 {
+
+    font-size: 30px;
+    color:white;
+}
+a {
+    text-decoration: none;
+}
+* {
+
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+*, ::before, ::after {
+
+    -webkit-box-sizing: inherit;
+    box-sizing: inherit;
+
+}
+a {
+
+    color: #121212;
+
+}
+a {
+
+    color: #0275d8;
+
+}
+body, p {
+
+    color: #9f9f9f;
+
+}
+h1, h2, h3, h4, h5, body, p {
+
+    font-family: 'Poppins', sans-serif;
+
+}
